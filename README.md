@@ -18,5 +18,5 @@ Streamlit is an open-source Python library that simplifies the process of buildi
 - Download app.py file in your system
 - Open terminal and select the directory where app.py is located
 - Install Streamlit (pip install streamlit), if not installed
-- To run the web application, run the command: streamlit run app.py
+- To run the web application, run the command in terminal: streamlit run app.py
 - This will provide and load in your default browser
