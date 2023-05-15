@@ -13,3 +13,10 @@ Streamlit is an open-source Python library that simplifies the process of buildi
 
 - Too much customisations not possible, we will have to use Flask for that.
 - Will have to learn more web development for customizations.
+
+# How to run the file?
+- Download app.py file in your system
+- Open terminal and select the directory where app.py is located
+- Install Streamlit (pip install streamlit), if not installed
+- To run the web application, run the command: streamlit run app.py
+- This will provide and load in your default browser
