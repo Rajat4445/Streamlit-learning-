@@ -8,3 +8,8 @@ Streamlit is an open-source Python library that simplifies the process of buildi
 - Built-in support for machine learning models and data processing
 - Lightweight and flexible, making it easy to integrate with existing Python workflows and tools
 - Suitable for small data science projects to large-scale production environments
+
+# Disadvantages
+
+- Too much customisations not possible, we will have to use Flask for that.
+- Will have to learn more web development for customizations.
